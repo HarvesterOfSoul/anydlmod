@@ -297,7 +297,7 @@ File Size: {}
 Downloaded: {}
 ETA: {}
 
-©️ @AnyDLBot""".format(
+©️ HailDevil""".format(
     url,
     humanbytes(total_length),
     humanbytes(downloaded),
